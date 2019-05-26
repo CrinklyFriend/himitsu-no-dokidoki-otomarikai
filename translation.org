@@ -1,0 +1,100 @@
+#+TITLE:ヒミツのドキドキおとまりかい！
+#+AUTHOR:CrinklyFriend
+#+EMAIL:thingywhat@gmail.com
+:SETTINGS:
+#+STARTUP: hidestars
+#+DRAWERS: KANA SETTINGS
+#+LINK: translate https://translate.google.com/?sl=ja&tl=en&hl=en&q=
+#+LINK: jisho https://jisho.org/search/
+#+OPTIONS: ^:nil H:3 p:nil tags:not-in-toc todo:nil toc:nil
+#+LANGUAGE: jp
+:END:
+
+#+BEGIN_QUOTE
+エムリット：[[jisho:突然][突然]]だけどミュウっ！
+エムリット：あたし[[jisho:今晩][今晩]][[jisho:泊まり][泊まり]]に行くからっ！
+ミュウ：えええっ
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: It's sudden, but Mew...
+Mesprit: Tonight, I'm staying over!
+Mew: Eeeeehh??
+#+END_QUOTE
+
+- The から at the end of the sentence is to say "Because <the action before it>"
+- 泊まりに行く basically is just saying "Going to stay"
+
+#+BEGIN_QUOTE
+ミュウ：......[[jisho:嫌][嫌]]なの？
+ミュウ：......[[jisho:そんな][そんな]][[jisho:事ない][事ない]]よ......
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mew: ...Is something wrong?
+Mew: This kind of thing never happens...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+エムリット：あ”ーっっ
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: Aaaaaa...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+エムリート：......まただ
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: ...again
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+エムリート：いつもそう......ミュウと一緒に[[jisho:居たい][居たい]][[https://www.renshuu.org/grammar/473/%E3%81%A0%E3%81%91%C2%A0][だけ]][[http://www.jgram.org/pages/viewOne.php?tagE=nanoni][なのに]]
+エムリート：恥ずかしいから[[https://www.renshuu.org/grammar/495/%E3%81%A3%E3%81%A6%C2%A0][って]]、[[jisho:無理][無理]]な事[[https://japanese.stackexchange.com/a/56256/10600][ばっかり]]言って......
+エムリート：も少し[[jisho:素直][素直]]に[[jisho:喋][喋]]れたらな......
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: Like every time...I want to be together with Mew, but
+Mesprit: with Mew saying it's embarrassing, that's never going to happen...
+Mesprit: Even a little, if I could just be honest about my feelings
+#+END_QUOTE
+
+- だけ means "As much as Mesprit likes" in this case. This doesn't fit well into the English.
+
+#+BEGIN_QUOTE
+エムリート：......[[jisho:悩んで][悩んで]][[jisho:ても][ても]]仕方ないかっ
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: Even if I worry, can it be helped?
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ミュウの家
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mew's house
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+エムリート：さてと......
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: Well now...
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+エムリート：家[[jisho:まで][まで]]来たのはいいけど......[[jisho:あんな][あんな]][[jisho:約束][約束]]で、泊っていいのかな......
+エムリート：[[jisho:ま][ま]]、間いて[[jisho:確かめれば][確かめれば]]いいよね......
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Mesprit: Going up to the house was fine, but...was the the arrangement to stay okay...?
+Mesprit: For reals, I better wait to make sure it's all good...
+#+END_QUOTE
